@@ -1,0 +1,16 @@
+name: cs5228
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - jupyterlab
+    - numpy
+    - pandas
+    - scikit-learn
+    - networkx
+    - torch
+    - tensorboard
+    - matplotlib
+    - seaborn
+    - tqdm
+    - rich
