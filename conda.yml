@@ -4,6 +4,7 @@ dependencies:
   - pip
   - pip:
     - jupyterlab
+    - jupyterlab-vim
     - numpy
     - pandas
     - scikit-learn
